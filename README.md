@@ -20,12 +20,6 @@ dmd -m64 lens.d
 lens
 ```
 
-### Examples
-
-```bash
-lens
-```
-
 Analyzes the git log of the current folder.
 
 ## Version
