@@ -1,0 +1,5 @@
+lens
+*.o
+*.obj
+*.ilk
+*.pdb
