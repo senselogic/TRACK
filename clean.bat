@@ -1,5 +1,5 @@
-del /Q lens.exe
-del /Q lens.ilk
-del /Q lens.obj
-del /Q lens.pdf
+del /Q track.exe
+del /Q track.ilk
+del /Q track.obj
+del /Q track.pdf
 pause

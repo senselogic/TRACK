@@ -1,21 +1,21 @@
 /*
-    This file is part of the Lens distribution.
+    This file is part of the Track distribution.
 
-    https://github.com/senselogic/LENS
+    https://github.com/senselogic/TRACK
 
     Copyright (C) 2017 Eric Pelzer (ecstatic.coder@gmail.com)
 
-    Lens is free software: you can redistribute it and/or modify
+    Track is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, version 3.
 
-    Lens is distributed in the hope that it will be useful,
+    Track is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with Lens.  If not, see <http://www.gnu.org/licenses/>.
+    along with Track.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // -- IMPORTS

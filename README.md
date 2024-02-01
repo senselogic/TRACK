@@ -1,6 +1,6 @@
-![](https://github.com/senselogic/LENS/blob/master/LOGO/lens.png)
+![](https://github.com/senselogic/TRACK/blob/master/LOGO/track.png)
 
-# Lens
+# Track
 
 Git log analyzer.
 
@@ -11,13 +11,13 @@ Install the [DMD 2 compiler](https://dlang.org/download.html) (using the MinGW s
 Build the executable with the following command line :
 
 ```bash
-dmd -m64 lens.d
+dmd -m64 track.d
 ```
 
 ## Command line
 
 ```
-lens
+track
 ```
 
 Analyzes the git log of the current folder.

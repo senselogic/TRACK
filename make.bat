@@ -1,2 +1,2 @@
-dmd -m64 lens.d
-del lens.obj
+dmd -m64 track.d
+del track.obj
